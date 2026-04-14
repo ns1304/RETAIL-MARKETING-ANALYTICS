@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - Tools: Python, Power BI, scikit-learn
 
 ## 📧 Contact
-For questions or collaboration opportunities, please reach out via email or LinkedIn.
+For questions or collaboration opportunities, please reach out via email @ nitishshrivastav11@gmail.com or LinkedIn @ https://www.linkedin.com/in/nitish-shrivastav-16725b23b/.
