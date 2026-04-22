@@ -30,7 +30,9 @@ retail-marketing-analytics/
 │   ├── figures/               # Visualizations
 │   └── reports/               # Analysis reports
 ├── README.md
-├── requirements.txt
+├── dashboard
+│   └──Report
+
 
 ```
 
