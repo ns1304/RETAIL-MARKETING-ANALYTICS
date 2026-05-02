@@ -20,7 +20,11 @@ End-to-end data analytics project focused on customer segmentation, sales optimi
 retail-marketing-analytics/
 │														
 ├── notebooks/
-│   ├── Retail_and_Marketing_Analytics_Project.ipynb
+│   ├── 01_Data_inspection.ipynb
+│   ├── 02_Data_cleaning.ipynb
+│   ├── 03_EDA_ipynb
+│   ├── 04_Customer_Segment_ipynb
+│   ├── 05_KPI_ipynb
 ├── data/
 │   ├── raw/                    # Original datasets
 │   └── processed/              # Cleaned and transformed data
